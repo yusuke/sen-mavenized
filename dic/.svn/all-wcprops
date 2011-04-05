@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/sen~svn/!svn/ver/62/trunk/sen/dic
+END
+dictionary.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sen~svn/!svn/ver/50/trunk/sen/dic/dictionary.properties
+END
+ipa2mecab.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/sen~svn/!svn/ver/62/trunk/sen/dic/ipa2mecab.pl
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/sen~svn/!svn/ver/59/trunk/sen/dic/build.xml
+END
+compound.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sen~svn/!svn/ver/43/trunk/sen/dic/compound.pl
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sen~svn/!svn/ver/74/trunk/sen/src/java/net/java/sen/util
+END
+CSVData.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sen~svn/!svn/ver/61/trunk/sen/src/java/net/java/sen/util/CSVData.java
+END
+CSVParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sen~svn/!svn/ver/40/trunk/sen/src/java/net/java/sen/util/CSVParser.java
+END
+DoubleArrayTrie.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sen~svn/!svn/ver/74/trunk/sen/src/java/net/java/sen/util/DoubleArrayTrie.java
+END
+DoubleArrayTrie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sen~svn/!svn/ver/40/trunk/sen/src/java/net/java/sen/util/DoubleArrayTrie.cpp
+END

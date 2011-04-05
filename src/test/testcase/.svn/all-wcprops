@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sen~svn/!svn/ver/55/trunk/sen/src/test/testcase
+END
+StringTaggerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sen~svn/!svn/ver/55/trunk/sen/src/test/testcase/StringTaggerTest.java
+END
+RemarkProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sen~svn/!svn/ver/55/trunk/sen/src/test/testcase/RemarkProcessorTest.java
+END
+CompositPostProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sen~svn/!svn/ver/46/trunk/sen/src/test/testcase/CompositPostProcessorTest.java
+END
+CompoundWordPostProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sen~svn/!svn/ver/55/trunk/sen/src/test/testcase/CompoundWordPostProcessorTest.java
+END

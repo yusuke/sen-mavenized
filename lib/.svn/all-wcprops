@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/sen~svn/!svn/ver/65/trunk/sen/lib
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/sen~svn/!svn/ver/65/trunk/sen/lib/junit.jar
+END
+LICENSE.logging
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sen~svn/!svn/ver/63/trunk/sen/lib/LICENSE.logging
+END
+LICENSE.junit
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sen~svn/!svn/ver/63/trunk/sen/lib/LICENSE.junit
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sen~svn/!svn/ver/31/trunk/sen/lib/commons-logging.jar
+END

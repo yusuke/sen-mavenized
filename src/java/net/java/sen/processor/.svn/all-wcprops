@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sen~svn/!svn/ver/84/trunk/sen/src/java/net/java/sen/processor
+END
+CompositPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sen~svn/!svn/ver/84/trunk/sen/src/java/net/java/sen/processor/CompositPostProcessor.java
+END
+PostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sen~svn/!svn/ver/38/trunk/sen/src/java/net/java/sen/processor/PostProcessor.java
+END
+CompoundWordPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sen~svn/!svn/ver/78/trunk/sen/src/java/net/java/sen/processor/CompoundWordPostProcessor.java
+END
+PreProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sen~svn/!svn/ver/40/trunk/sen/src/java/net/java/sen/processor/PreProcessor.java
+END
+RemarkPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sen~svn/!svn/ver/51/trunk/sen/src/java/net/java/sen/processor/RemarkPostProcessor.java
+END
+RemarkPreProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sen~svn/!svn/ver/79/trunk/sen/src/java/net/java/sen/processor/RemarkPreProcessor.java
+END
